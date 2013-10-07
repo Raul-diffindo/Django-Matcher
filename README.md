@@ -1,4 +1,4 @@
-DJANGO & JQGRID
+DJANGO-Matcher
 ===============
 DO NOT USE UNTIL FINISH AND STABLE!
 
