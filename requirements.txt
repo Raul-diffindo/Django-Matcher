@@ -1,0 +1,4 @@
+haversine>=0.1
+geopy>=0.95.1
+fuzzywuzzy>=0.2
+jellyfish>=0.2.0
